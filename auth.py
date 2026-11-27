@@ -1,4 +1,4 @@
-## Step 5: Build `auth.py`
+
 """
 auth.py - Week 9: register and log in from the terminal.
 
